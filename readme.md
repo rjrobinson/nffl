@@ -26,6 +26,8 @@ LeagueSafe Link on Yahoo Website
   - [[4.2.1 Trade Veto]](#421-trade-veto)
   - [[4.4 Starting Lineups]](#44-starting-lineups)
   - [[4.4.1 Position Designations]](#441-position-designations)
+  - [[4.4.2 Lineup Adjustments]](#442-lineup-adjustments)
+  - [[4.4.3 Errors?]](#443-errors)
   - [[4.5 Bye-week Penalties]](#45-bye-week-penalties)
   - [[4.6 Active Ownership Requirements]](#46-active-ownership-requirements)
   - [[4.7 Anti-Tanking / Anti- Dumping Provision]](#47-anti-tanking--anti--dumping-provision)
@@ -147,6 +149,14 @@ Owners must submit their starting lineup each week, even if the lineup does not 
 ####[4.4.1 Position Designations]
 
 From time to time, the NFL may change their designation of a particular player from one position to another or a player may line up in multiple positions throughout the game. For example, a wide receiver may be switched to a tight end and vice versa. For the purposes of NFFL, a player may have only one official designation; the executive committee, using the official distinctions on NFL.com as a guide, will resolve any disputed designations. Players may only start and score points based on their NFFL distinction. See the League Scoring section for more details.
+
+####[4.4.2 Lineup Adjustments]
+
+If at anytime a owner does not set their line up, and violates the anti-tanking clause, the comisher will ask for a vote on to set that owners line up
+
+####[4.4.3 Errors?]
+
+If you have proposed a trade, created a waiver wire request, or accidently dropped a player YOU MUST EMAIL THE COMMISH ASAP. The time stamp on the email should be within 2 hours of the accidential add, drop what have you.
 
 ####[4.5 Bye-week Penalties]
 
