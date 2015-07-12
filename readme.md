@@ -40,9 +40,10 @@ email: robertj.robinson@gmail.com phone: 908-566-6628
 
 The executive committee for the Northville Fantasy Football League (NFFL) for 2015 consists of:
 
-•   Commissioner    R.J. Robinson   908-566-6628
-•   First Chair TBD
-•   Second Chair    TBD
+|------|:-----:|-----:|
+| Commissioner | R.J. Robinson | 908-566-6628 |
+| First Chair |TBD | |
+| Second Chair | TBD | |
 
 The Executive Committee will be responsible for resolving all disputes that are not expressly covered by this constitution. If a committee member is involved in the dispute, that member will excuse himself or herself from the decision process. While all owners are encouraged to submit suggestions to the committee, the committee's decision on all matters is final.
 
