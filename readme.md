@@ -82,8 +82,9 @@ The company League Safe shall hold all of the league money. The site is very sim
 ####[2.2 Prize Money]
 
 League prize money will be paid out within seven days of the completion of the NFFL Super Bowl. Money will be held in at www.leaguesafe.com and will be paid out in the following manner:
+
 |PLACE | PRIZE |
-|:--| :--: |
+|:-----| :-----: |
 |League Champion | $ 800.00|
 |League Runner-Up | $ 300.00|
 |League Second Runner- Up | $ 100.00|
