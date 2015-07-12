@@ -3,10 +3,10 @@
 
 ##2015 NFFL
 
-|:------:|-----:|
-| Commissioner | R.J. Robinson |
-| Email: | robertj.robinson@gmail.com |
-| Phone: | 908-566-6628 |
+|:------:|:-----:|
+| Commissioner  | R.J. Robinson |
+| Email 				| robertj.robinson@gmail.com |
+| Phone 				| 908-566-6628 |
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
