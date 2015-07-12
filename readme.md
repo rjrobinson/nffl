@@ -7,22 +7,23 @@ email: robertj.robinson@gmail.com phone: 908-566-6628
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
-[](#)
+
+- [](#)
   - [[1.0 Orginization]](#10-orginization)
     - [[1.1 Executive Committee]](#11-executive-committee)
     - [[1.2 Living Constitution]](#12-living-constitution)
     - [[1.3 Membership]](#13-membership)
-[](#-1)
+- [](#-1)
   - [[2.0 League Financing]](#20-league-financing)
     - [[2.1 League Fee]](#21-league-fee)
     - [[2.2 Prize Money]](#22-prize-money)
     - [[2.3 Late Fee]](#23-late-fee)
-[](#-2)
+- [](#-2)
   - [[3.0 League Setup and Competition]](#30-league-setup-and-competition)
     - [[3.0.1 Division Rankings]](#301-division-rankings)
     - [[3.1 Division Rankings]](#31-division-rankings)
     - [[3.2 Playoffs]](#32-playoffs)
-[](#-3)
+- [](#-3)
   - [[4.0 Rosters, Lineups & Keeper Rules]](#40-rosters-lineups-&-keeper-rules)
     - [[4.1 The Draft]](#41-the-draft)
     - [[4.2 Trades]](#42-trades)
@@ -32,12 +33,11 @@ email: robertj.robinson@gmail.com phone: 908-566-6628
     - [[4.5 Bye-week Penalties]](#45-bye-week-penalties)
     - [[4.6 Active Ownership Requirements]](#46-active-ownership-requirements)
     - [[4.7 Anti-Tanking / Anti- Dumping Provision]](#47-anti-tanking--anti--dumping-provision)
-    - [[4.8 Keeper League Rules]](#48-keeper-league-rules)
-[](#-4)
+- [](#-4)
   - [[5.0 Scoring System]](#50-scoring-system)
     - [[5.1 Point Totals and Final Scores]](#51-point-totals-and-final-scores)
   - [[6.0 Offseason Activities]](#60-offseason-activities)
-[](#-5)
+- [](#-5)
   - [[X.0 Updates / Change log]](#x0-updates--change-log)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -82,10 +82,11 @@ The company League Safe shall hold all of the league money. The site is very sim
 ####[2.2 Prize Money]
 
 League prize money will be paid out within seven days of the completion of the NFFL Super Bowl. Money will be held in at www.leaguesafe.com and will be paid out in the following manner:
-
-•   League Champion             $ 800.00
-•   League Runner-Up                $ 300.00
-•   League Second Runner- Up     $ 100.00
+|PLACE | PRIZE |
+|:--| :--: |
+|League Champion | $ 800.00|
+|League Runner-Up | $ 300.00|
+|League Second Runner- Up | $ 100.00|
 
 
 ####[2.3 Late Fee]
@@ -174,8 +175,6 @@ Each owner is expected to actively manage their team each week, even if they are
 ####[4.7 Anti-Tanking / Anti- Dumping Provision]
 
 NFFL is a competitive league, created for the league owners to have fun playing fantasy football. While the competition may be fierce, this is not considered a cutthroat league. In the spirit of competition and league fairness, owners are not allowed to intentionally create a legal starting lineup that gives the opposing team a clear advantage. The executive committee reserves the right to step in and adjust the starting lineup of a team that is clearly trying to intentionally lose a game. If the committee must adjust a team's lineup in two consecutive weeks or for three or more weeks in any one season, the team will be considered inactive and the executive committee may assume ownership of the team as detailed in the active ownership requirements section.
-
-####[4.8 Keeper League Rules]
 
 ---
 
