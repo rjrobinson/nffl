@@ -1,3 +1,9 @@
+![NFFL Logo](https://dl.dropboxusercontent.com/u/9377605/NorthvilleFFL_2Color.jpg)
+2015
+Commissioner R.J. Robinson
+
+email: robertj.robinson@gmail.com phone: 908-566-6628
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -35,11 +41,6 @@
   - [[X.0 Updates / Change log]](#x0-updates--change-log)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-2015
-Commissioner R.J. Robinson
-
-email: robertj.robinson@gmail.com phone: 908-566-6628
 
 ---
 
