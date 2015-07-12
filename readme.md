@@ -72,13 +72,15 @@ After the completion of the regular season, division leaders will make the playo
 Rosters in NFFL consist of 16 active players and optional two IR reserve spots, from any NFL team. Position limits are as follows:
 
 
-POSITION    MIN MAX
-QB  1   3
-RB  2   5   FLEX
-WR  2   5   FLEX
-TE  1   3   FLEX
-PK  1   3
-DEF 1   3
+|Position  | MIN  | MAX	  | FLEX?|
+| :---------:|:----:|:-----:|:---- |
+| QB 			 |  1	 | 3		 | 			|
+| RB 			 |  2  | 5		 | FLEX |
+|WR  			 |  2	 | 5		 | FLEX |
+|TE  			 |  1	 | 3		 | FLEX |
+|PK  			 |  1	 | 3		 | 			|
+|DEF 			 |  1	 | 3		 | 			|
+
 
 
 Only players from the active roster may be used as part of a team's starting lineup.
