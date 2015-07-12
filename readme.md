@@ -128,8 +128,9 @@ The executive committee reserves the right to reverse any trade that they deem i
 ####[4.4 Starting Lineups]
 
 Starting lineups in NFFL will consist as follows:
+
 |QTY| POSITION |
-|--|:----|
+|:-----:|:----:|
 |1 | QB|
 |2 | RBs|
 |2 | WRs|
@@ -137,6 +138,7 @@ Starting lineups in NFFL will consist as follows:
 |1 | Flex (RB, WR, TE)|
 |1 | PK|
 |1 | Defense|
+
 Owners must submit their starting lineup each week, even if the lineup does not change from the previous week. Players may be added or removed from the starting lineup up until the start of the first NFL game. On weeks where the NFL has a Thursday game, owners may make changes to their lineups up to the start of the second NFL game, but may not change a player that has already played. For example, if you started your quarterback on Thursday night and he has a bad game, you cannot switch him out for a quarterback who has not played. Also, if you did not start a wide receiver that played on Thursday night and he scored three touchdowns, you cannot add him to your lineup on Friday. Once the Thursday game begins, players from that game may not be started or benched.
 
 ####[4.4.1 Position Designations]
