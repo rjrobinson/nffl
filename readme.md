@@ -202,14 +202,14 @@ Owners are strongly encouraged to maintain their current contact information as 
 ###[Updates / Change log]
 
 ---
-
-|:--- |:-----|
-|7/12/15 	|Updated formatting.|
-|      		|Added change log on github.com|
-|6/12/15 	|Changed dates|
-|      		|Reapplied yahoo.com as the tracker.|
-|      		|Increased fee to $100|
-|      		|Placed note about the $15 late fee.|
-|7/12/14 	|Changed dates|
-|      		|Added Keeper rules and statuses.|
+|DATE|CHANGES|
+|:---:|:-----:|
+| 7/12/15 	| Updated formatting.|
+|      		| Added change log on github.com|
+| 6/12/15 	| Changed dates|
+|      		| Reapplied yahoo.com as the tracker.|
+|      		| Increased fee to $100|
+|      		| Placed note about the $15 late fee.|
+| 7/12/14 	| Changed dates|
+|      		| Added Keeper rules and statuses.|
 
