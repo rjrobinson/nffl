@@ -3,11 +3,9 @@
 
 ##2015 NFFL
 
-| | |
+|Commissioner | R.J. Robinson|
 |:------|:-----:|
-| Commissioner | R.J. Robinson |
-| Email | TBD |
-| Phone | TBD |
+| Email: | robertj.robinson [at] gmail |
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
