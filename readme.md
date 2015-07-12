@@ -1,23 +1,22 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [](#)
+**Table of Contents**
+[](#)
   - [[1.0 Orginization]](#10-orginization)
     - [[1.1 Executive Committee]](#11-executive-committee)
     - [[1.2 Living Constitution]](#12-living-constitution)
     - [[1.3 Membership]](#13-membership)
-- [](#-1)
+[](#-1)
   - [[2.0 League Financing]](#20-league-financing)
     - [[2.1 League Fee]](#21-league-fee)
     - [[2.2 Prize Money]](#22-prize-money)
     - [[2.3 Late Fee]](#23-late-fee)
-- [](#-2)
+[](#-2)
   - [[3.0 League Setup and Competition]](#30-league-setup-and-competition)
     - [[3.0.1 Division Rankings]](#301-division-rankings)
     - [[3.1 Division Rankings]](#31-division-rankings)
     - [[3.2 Playoffs]](#32-playoffs)
-- [](#-3)
+[](#-3)
   - [[4.0 Rosters, Lineups & Keeper Rules]](#40-rosters-lineups-&-keeper-rules)
     - [[4.1 The Draft]](#41-the-draft)
     - [[4.2 Trades]](#42-trades)
@@ -28,11 +27,11 @@
     - [[4.6 Active Ownership Requirements]](#46-active-ownership-requirements)
     - [[4.7 Anti-Tanking / Anti- Dumping Provision]](#47-anti-tanking--anti--dumping-provision)
     - [[4.8 Keeper League Rules]](#48-keeper-league-rules)
-- [](#-4)
+[](#-4)
   - [[5.0 Scoring System]](#50-scoring-system)
     - [[5.1 Point Totals and Final Scores]](#51-point-totals-and-final-scores)
   - [[6.0 Offseason Activities]](#60-offseason-activities)
-- [](#-5)
+[](#-5)
   - [[X.0 Updates / Change log]](#x0-updates--change-log)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
