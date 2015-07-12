@@ -5,8 +5,8 @@
 
 |:------:|-----:|
 | Commissioner | R.J. Robinson |
-| email: | robertj.robinson@gmail.com|
-| phone: | 908-566-6628 |
+| Email: | robertj.robinson@gmail.com |
+| Phone: | 908-566-6628 |
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
