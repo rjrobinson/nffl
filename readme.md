@@ -36,8 +36,9 @@ email: robertj.robinson@gmail.com phone: 908-566-6628
 - [](#-4)
   - [[5.0 Scoring System]](#50-scoring-system)
     - [[5.1 Point Totals and Final Scores]](#51-point-totals-and-final-scores)
-  - [[6.0 Offseason Activities]](#60-offseason-activities)
 - [](#-5)
+  - [[6.0 Offseason Activities]](#60-offseason-activities)
+- [](#-6)
   - [[X.0 Updates / Change log]](#x0-updates--change-log)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -188,6 +189,8 @@ If there are any questions regarding the points, please contact a member of the 
 ####[5.1 Point Totals and Final Scores]
 
 NFFL will be hosted at yahoo fantasy sports. Head to head scoring will be determined each week by the stats from that website. From time to time, the NFL may go back and change the scoring of certain plays later in the week. http://www.nfl.com/fantasy gives the commissioner the option to make these scores retroactive. However, to maintain a sense of fairness and avoid confusion in the league, all head-to-head scoring will be resolved as of Tuesday at noon Eastern. Any scoring changes that come out from the NFL after that time will not be applied to the league.
+
+---
 
 ###[6.0 Offseason Activities]
 
