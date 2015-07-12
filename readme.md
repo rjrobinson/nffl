@@ -1,7 +1,4 @@
-![NFFL Logo](https://dl.dropboxusercontent.com/u/9377605/NorthvilleFFL_2Color.jpg)
-
-
-##2015 NFFL
+###2015 Northville Fantasy Football League
 
 |Commissioner | R.J. Robinson|
 |:------|:-----:|
