@@ -1,4 +1,4 @@
-###2015 Northville Fantasy Football League
+###2016 - 17 North-ville Fantasy Football League
 
 |Commissioner | R.J. Robinson|
 |:------|:-----:|
@@ -9,7 +9,7 @@ LeagueSafe Link on Yahoo Website
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [[1.0 Orginization]](#10-orginization)
+- [[1.0 Organization]](#10-orginization)
   - [[1.1 Executive Committee]](#11-executive-committee)
   - [[1.2 Living Constitution]](#12-living-constitution)
   - [[1.3 Membership]](#13-membership)
@@ -33,21 +33,20 @@ LeagueSafe Link on Yahoo Website
   - [[4.7 Anti-Tanking / Anti- Dumping Provision]](#47-anti-tanking--anti--dumping-provision)
 - [[5.0 Scoring System]](#50-scoring-system)
   - [[5.1 Point Totals and Final Scores]](#51-point-totals-and-final-scores)
-- [[6.0 Offseason Activities]](#60-offseason-activities)
+- [[6.0 Off season Activities]](#60-offseason-activities)
 - [[Updates / Change log]](#updates--change-log)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-###[1.0 Orginization]
+###[1.0 Organization]
 ####[1.1 Executive Committee]
 
-The executive committee for the Northville Fantasy Football League (NFFL) for 2015 consists of:
+The executive committee for the North-ville Fantasy Football League (NFFL) for 2015 consists of:
 
 | Title | Name | Contact |
 |:------|:-----:|:-----:|
 | Commissioner | R.J. Robinson | 908-566-6628 |
-| First Chair | TBD | n/a |
-| Second Chair | TBD | n/a |
+| Asst. Commissioner  | TBD | n/a |
 
 The Executive Committee will be responsible for resolving all disputes that are not expressly covered by this constitution. If a committee member is involved in the dispute, that member will excuse himself or herself from the decision process. While all owners are encouraged to submit suggestions to the committee, the committee's decision on all matters is final.
 
@@ -66,26 +65,27 @@ If you wish to join the league, or would like to recommend someone to join, ther
 ###[2.0 League Financing]
 The league fee for NFFL will be charged to each team owner and committee member, payable to www.leaguesafe.com on or before the deadline given, usually 7- 10 days before the night of the draft. If a team owner does not have the appropriate entry fee, the executive committee may make other arrangements for payment before the season starts at their discretion.
 
-####[2.1 League Fee]
+####[2.1 League & Keeper Fees]
 
-The NFFL league fee for the 2015 season will be $100.00 from each owner. This fee consists of $100 entry fee plus $0.00 from each owner to cover the cost of the league dues. Also, at this time all trades and waiver wire transactions are free.
+The NFFL league fee for the 2016 season will be $75.00 from each owner. This fee consists of $75 entry fee plus fees that come from keepers,  from each owner to cover the cost of the league dues. Also, at this time all trades and waiver wire transactions will remain free.
 
 The company League Safe shall hold all of the league money. The site is very simple to use, and at the end of the season we will be able to quickly pay the winners. Note that if you opt to pay with credit card verses an e-check, there is a 3% fee charged.
 
+Please note. __YOU MUST PAY WITHIN 2 WEEKS OF THE DRAFT__ . NFFL Cannot stress enough the pain in the ass that it is to track you down. IF, you do not pay on time. You will be removed from the league.
 ####[2.2 Prize Money]
 
 League prize money will be paid out within seven days of the completion of the NFFL Super Bowl. Money will be held in at www.leaguesafe.com and will be paid out in the following manner:
 
 |PLACE | PRIZE |
 |:-----| :-----: |
-|League Champion | $ 800.00|
-|League Runner-Up | $ 300.00|
-|League Second Runner- Up | $ 100.00|
+|League Champion | 65% |
+|League Runner-Up | 25%|
+|League Second Runner- Up | 15% |
 
 
-####[2.3 Late Fee]
+####[2.3 Late Fee] <- NOTE THE CHANGE
 
-If you have not paid by kick off of the first game in the season, there will be a penalty imposed.
+If you have not paid by DEADLINE..., there will be a penalty imposed. You'll be removed...
 
 
 
@@ -110,21 +110,21 @@ Rosters in NFFL consist of 16 active players and optional two IR reserve spots, 
 |QB |1|3|-|
 |RB |2|5|FLEX|
 |WR  |2|5|FLEX|
-|TE  |1|3|FLEX|
+|TE  |1|3|-|
 |PK  |1|3|-|
 |DEF |1|3|-|
 
 Only players from the active roster may be used as part of a team's starting lineup.
 
-Comments: In keeper or dynasty leagues, you may also want to add a section about injured reserve or taxi squad where owners may designate players who are not active, but still available for protection for next season.
+Injured players can be marked as inactive and noted for the following years league. Please e-mail the e-board so a note can be made on the player.
 
 ####[4.1 The Draft]
 
-The commissioner will designate a draft night each season. Owners are expected to attend the draft in person, and must have all league fees paid before the draft. The draft order will be determined by a random draw NLT 1 week before the draft. Draft position will be determined by random draw from the executive committee. The draft will be a serpentine order, where the person with the first pick in Round 1 will have the last pick in Round 2 and the first pick in Round 3. When it is the owner's turn to draft, they will have 2 minutes 30 seconds to make their pick. The commissioner will designate a timekeeper and when the timer expires, the next owner may make their selection. The skipped owner will then have another 30 seconds to make their pick, or the next owner will be on the clock. If you are skipped 2 times in the same round, you will not be able to secure that position until the end of 16th round.
+The commissioner will designate a draft night each season. Owners must have all league fees paid before the draft. The draft order will be determined by a random draw NLT 1 week before the draft. Draft position will be determined by random draw from the executive committee. The draft will be a serpentine order, where the person with the first pick in Round 1 will have the last pick in Round 2 and the first pick in Round 3. When it is the owner's turn to draft, they will have 2 minutes 0 seconds to make their pick. The commissioner will designate a timekeeper and when the timer expires, the next owner may make their selection. The skipped owner will then have another 30 seconds to make their pick, or the next owner will be on the clock. If you are skipped 2 times in the same round, you will not be able to secure that position until the end of 16th round.
 
 ####[4.2 Trades]
 
-Trading is allowed and encouraged in NFFL, and may be conducted between any owners. Trades may include multiple players from any position, as well as draft picks. Trades must include the same number of players or draft picks from each side to avoid any roster limit conflicts. If the roster allows for an uneven trade (This is for a 2 for 1 type situation) that is allowed; as long as there are no roster conflicts before, during or after the trade is complete. Owners may not make trades during any given week once the first NFL game has been played. Owners are free to trade once the final NFL game of the week is complete. No trades will be allowed after Week 12 of the fantasy football season. Please see Anti-tanking / anti-dumping rules.
+Trading is allowed and encouraged in NFFL, and may be conducted between any owners. Trades may include multiple players from any position, as well as draft picks. Trades must include the same number of players or draft picks from each side to avoid any roster limit conflicts. If the roster allows for an uneven trade (This is for a 2 for 1 type situation) that is allowed; as long as there are no roster conflicts before, during or after the trade is complete. Owners may not make trades during any given week once the first NFL game has been played. Owners are free to trade once the final NFL game of the week is complete. No trades will be allowed after Week 12 of the fantasy football season. Please see anti-tanking / anti-dumping rules.
 
 ####[4.2.1 Trade Veto]
 
@@ -140,7 +140,7 @@ Starting lineups in NFFL will consist as follows:
 | 2 | RBs |
 | 2 | WRs |
 | 1 | TE |
-| 1 | Flex (RB, WR, TE) |
+| 1 | Flex (RB / WR) |
 | 1 | PK |
 | 1 | Defense |
 
@@ -152,11 +152,11 @@ From time to time, the NFL may change their designation of a particular player f
 
 ####[4.4.2 Lineup Adjustments]
 
-If at anytime a owner does not set their line up, and violates the anti-tanking clause, the comisher will ask for a vote on to set that owners line up
+If at anytime a owner does not set their line up, and violates the anti-tanking clause, the commissioner  will ask for a vote on to set that owners line up
 
 ####[4.4.3 Errors?]
 
-If you have proposed a trade, created a waiver wire request, or accidently dropped a player YOU MUST EMAIL THE COMMISH ASAP. The time stamp on the email should be within 2 hours of the accidential add, drop what have you.
+If you have proposed a trade, created a waiver wire request, or accidentally dropped a player YOU MUST EMAIL THE COMMISH ASAP. The time stamp on the email should be within 2 hours of the accidential add, drop what have you.
 
 ####[4.5 Bye-week Penalties]
 
@@ -180,15 +180,32 @@ If there are any questions regarding the points, please contact a member of the 
 
 NFFL will be hosted at yahoo fantasy sports. Head to head scoring will be determined each week by the stats from that website. From time to time, the NFL may go back and change the scoring of certain plays later in the week. http://www.nfl.com/fantasy gives the commissioner the option to make these scores retroactive. However, to maintain a sense of fairness and avoid confusion in the league, all head-to-head scoring will be resolved as of Tuesday at noon Eastern. Any scoring changes that come out from the NFL after that time will not be applied to the league.
 
-###[6.0 Offseason Activities]
+###[6.0 Keeper Rules]
 
-Owners are strongly encouraged to maintain their current contact information as part of the league software. Please make sure to include your name, phone number and email address in the event that we need to reach you during the off-season. You should expect to be contacted in July with information about next year's draft. Thanks and welcome to Northville Fantasy Football League 2013 season!
+Starting in the 2016 season we will be assigning some new rules regarding "Keepers". A Keeper is a player that rolls over from the previous year. You may keep a player in your roster for up to 3 consecutive seasons. What that means is that If you draft one year, and that player is on your roster at the end of the season, you may buy that player for another season. You may not be able to buy that player more than 2 years in a row. On the 4th year, if that player is available for draft, you may draft them, and the counter resets.
+
+Keepers shall also come with a cost. This year the cost will be $25 per player. They will also cost you your 2nd, 4th, and 6th draft position respectively.
+
+Keepers come with a cost... will you be ready?
+
+Just to recap.
+
+1. You may select up to 3 players from the previous years end of year roster.
+2. Each Player will cost you $25 dollars.
+3. You may not designate the same player more then 2 seasons in a row ( allowing you  to retain a keeper for a maximum of 3 seasons. On the 4th season, they return to the draft pool)
+4. They must be on your roster from the previous year.
+
+
+###[7.0 Offseason Activities]
+
+Owners are strongly encouraged to maintain their current contact information as part of the league software. Please make sure to include your name, phone number and email address in the event that we need to reach you during the off-season. You should expect to be contacted in July with information about next year's draft. Thanks and welcome to North-ville Fantasy Football League 2013 season!
 
 
 ###[Updates / Change log]
 
 |DATE|CHANGES|
 |:---:|-----|
+| 7/12/15  | Updated for 2016 season. Added Keeper Rules. |
 | 7/12/15 	| Updated formatting.|
 |      		| Added change log on github.com|
 | 6/12/15 	| Changed dates|
