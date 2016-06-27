@@ -196,7 +196,7 @@ Just to recap.
 4. They must be on your roster from the previous year.
 
 
-###[7.0 Offseason Activities]
+###[7.0 Off-season Activities]
 
 Owners are strongly encouraged to maintain their current contact information as part of the league software. Please make sure to include your name, phone number and email address in the event that we need to reach you during the off-season. You should expect to be contacted in July with information about next year's draft. Thanks and welcome to North-ville Fantasy Football League 2013 season!
 
