@@ -205,7 +205,7 @@ Owners are strongly encouraged to maintain their current contact information as 
 
 |DATE|CHANGES|
 |:---:|-----|
-| 7/12/15  | Updated for 2016 season. Added Keeper Rules. |
+| 7/12/16  | Updated for 2016 season. Added Keeper Rules. |
 | 7/12/15 	| Updated formatting.|
 |      		| Added change log on github.com|
 | 6/12/15 	| Changed dates|
