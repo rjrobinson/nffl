@@ -184,13 +184,13 @@ NFFL will be hosted at yahoo fantasy sports. Head to head scoring will be determ
 
 Starting in the 2016 season we will be assigning some new rules regarding "Keepers". A Keeper is a player that rolls over from the previous year. You may keep a player in your roster for up to 3 consecutive seasons. What that means is that If you draft one year, and that player is on your roster at the end of the season, you may buy that player for another season. You may not be able to buy that player more than 2 years in a row. On the 4th year, if that player is available for draft, you may draft them, and the counter resets.
 
-Keepers shall also come with a cost. This year the cost will be $25 per player. They will also cost you your 2nd, 4th, and 6th draft position respectively.
+Keepers shall also come with a cost. This year the cost will be $25 per player. They will also cost you your 2nd & 4th draft position respectively.
 
 Keepers come with a cost... will you be ready?
 
 Just to recap.
 
-1. You may select up to 3 players from the previous years end of year roster.
+1. You may select up to 2 players from the previous years end of year roster.
 2. Each Player will cost you $25 dollars.
 3. You may not designate the same player more then 2 seasons in a row ( allowing you  to retain a keeper for a maximum of 3 seasons. On the 4th season, they return to the draft pool)
 4. They must be on your roster from the previous year.
@@ -205,13 +205,14 @@ Owners are strongly encouraged to maintain their current contact information as 
 
 |DATE|CHANGES|
 |:---:|-----|
+| 8/21/16  | Changed from 3 keeprs down to 2|
 | 7/12/16  | Updated for 2016 season. Added Keeper Rules. |
-| 7/12/15 	| Updated formatting.|
-|      		| Added change log on github.com|
-| 6/12/15 	| Changed dates|
-|      		| Reapplied yahoo.com as the tracker.|
-|      		| Increased fee to $100|
-|      		| Placed note about the $15 late fee.|
-| 7/12/14 	| Changed dates|
-|      		| Added Keeper rules and statuses.|
+| 7/12/15  | Updated formatting.|
+|      		 | Added change log on github.com|
+| 6/12/15  | Changed dates|
+|      		 | Reapplied yahoo.com as the tracker.|
+|      		 | Increased fee to $100|
+|      		 | Placed note about the $15 late fee.|
+| 7/12/14  | Changed dates|
+|      		 | Added Keeper rules and statuses.|
 
