@@ -79,8 +79,9 @@ League prize money will be paid out within seven days of the completion of the N
 |PLACE | PRIZE |
 |:-----| :-----: |
 |League Champion | 65% |
-|League Runner-Up | 25%|
-|League Second Runner- Up | 15% |
+|League Runner-Up | 
+%|
+|League Second Runner- Up | 10% |
 
 
 ####[2.3 Late Fee] <- NOTE THE CHANGE
